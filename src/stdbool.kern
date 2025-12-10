@@ -1,0 +1,12 @@
+// stdbool.kern - Booleanos KernelScript
+typedef int bool
+#define true 1
+#define false 0
+
+// Exemplo de uso
+bool flag = true
+if (flag) {
+    print("Flag é true!")
+} else {
+    print("Flag é false!")
+}
