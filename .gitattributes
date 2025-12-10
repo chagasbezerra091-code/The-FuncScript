@@ -1,0 +1,5 @@
+# FuncScript
+*.fs linguist-language=FuncScript
+
+# KernelScript
+*.kern linguist-language=KernelScript
